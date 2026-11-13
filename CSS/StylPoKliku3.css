@@ -39,12 +39,12 @@ nav li {
     gap: 16px; 
     text-align: left;
     font-family: '50'; 
-    font-size: 20px;
+    font-size: 15px;
     color: black;
     align-content: top;
     padding: 15px 15px;
     margin: 20px auto;
-    background-color: #a69b9b;
+    background-color: #d67474;
     border-radius: 1%;
     width: 90%;
     max-width: 1920px;
